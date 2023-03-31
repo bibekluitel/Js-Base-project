@@ -1,0 +1,11 @@
+{
+  "name": "JS-Bootstrap-Project",
+  "private": true,
+  "workspaces": [
+    "frontend/*",
+    "backend/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.6.1"
+  }
+}
